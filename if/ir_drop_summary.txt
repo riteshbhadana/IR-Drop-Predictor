@@ -1,0 +1,6 @@
+
+### 🔎 IR-DROP SUMMARY  
+- **Max IR-Drop:** 0.9512  
+- **Avg IR-Drop:** 0.4469  
+- **Hotspots (>0.7):** 49  
+- **Risk Level:** **HIGH RISK**
