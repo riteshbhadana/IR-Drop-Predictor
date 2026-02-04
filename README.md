@@ -175,7 +175,7 @@ A Streamlit-based interface is developed to demonstrate practical usability:
 
 **Run the application:**
 ```bash
-cd ui
+cd if
 streamlit run app.py
 ```
 
@@ -192,3 +192,4 @@ streamlit run app.py
 
 **Ritesh**  
 BTech — Artificial Intelligence
+
